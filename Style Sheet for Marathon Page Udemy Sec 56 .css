@@ -1,0 +1,59 @@
+h1 {
+    font-size: 28px;
+    color: rgb(254, 254, 255);
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(252, 252, 252);
+}
+
+body {
+    background-image: url("https://www.science.org/do/10.1126/science.aay2874/full/running_16x9_1-1644902882797.jpg");
+}
+
+body {
+    margin: 50px;
+    background-color: rgb(255, 132, 0);
+    padding: 50px;
+    height: 50%;
+    width: 50%;
+}
+
+nav {
+    font-size: 25px;
+    color: rgb(222, 28, 28);
+}
+
+table {
+    font-size: 25px;
+    color: rgb(254, 254, 254);
+}
+
+form {
+    font-size: 20px;
+    color: rgb(254, 254, 254);
+}
+
+img {
+    max-width: 110%;
+    height: auto;
+}
+
+footer {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+    color: rgb(234, 45, 2);
+    background-color: rgb(98, 244, 98)
+}
+
+/* button {
+    background-color: green;
+} */
+
+section {
+    display: flex;
+}
